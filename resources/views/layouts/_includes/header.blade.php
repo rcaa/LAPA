@@ -51,8 +51,9 @@
         <!-- reCAPTCHA-->
         <script src="https://www.google.com/recaptcha/api.js" async defer></script>
         <!-- Vlibras -->
-        <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
-        <script>new window.VLibras.Widget('https://vlibras.gov.br/app');</script>
+        <!-- <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+        <script>new window.VLibras.Widget('https://vlibras.gov.br/app');</script> --> 
+        
         <!-- br barra-->
         <script defer="defer" src="//barra.brasil.gov.br/barra.js" type="text/javascript"></script>
 
